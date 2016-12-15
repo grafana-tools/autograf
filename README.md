@@ -1,7 +1,7 @@
 # Autograf is a dashboard constructor for Grafana [![Go Report Card](https://goreportcard.com/badge/github.com/grafov/autograf)](https://goreportcard.com/report/github.com/grafov/autograf)
 
-*Moving from github.com/grafov/autograf repository in progress. Some things may not work.*
-*The libraries moved out to github.com/grafana-tools/sdk.*
+**Work in progress!** 
+If you looking for `grafana` and `client` libraries you will find them at [sdk](https://github.com/grafana-tools/sdk).
 
 [Grafana](http://grafana.org) is flexible and usable for exploring and visualizing data. But UI of Grafana is not very suitable for repetitive operations with large number of objects on multiple dashboards. Aim of Autograf project is help with maintaining a large set of dashboards and datasources in an automated way. Autograf will not try to be a replacement for native Grafana methods of automation (templating variables, repeatable panels and scripted dashboards) but it complement them with own way. But I think DSL with a plain blocks of text without complex nesting will good for representing Grafana board-row-panel concept.
 
