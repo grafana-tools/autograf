@@ -1,4 +1,4 @@
-# Autograf is a dashboard constructor for Grafana [![Go Report Card](https://goreportcard.com/badge/github.com/grafov/autograf)](https://goreportcard.com/report/github.com/grafov/autograf)
+# Autograf is a dashboard constructor for Grafana
 
 **Work in progress!** 
 If you looking for `grafana` and `client` libraries you will find them at [sdk](https://github.com/grafana-tools/sdk).
